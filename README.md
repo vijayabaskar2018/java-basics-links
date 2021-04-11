@@ -45,6 +45,12 @@ Singleton pattern
 
 https://www.callicoder.com/java-singleton-design-pattern-example/
 
+Eager and Lazy Instantiation
+
+https://sandeepdass003.wordpress.com/2018/02/23/eager-and-lazy-instantiation-in-singleton-design-pattern-implementation/
+
+https://dzone.com/articles/always-start-with-eager-initialisation
+
 JAXB
 
 https://www.javacodegeeks.com/2014/12/jaxb-tutorial-xml-binding.html
