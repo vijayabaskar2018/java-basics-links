@@ -44,3 +44,9 @@ https://stackify.com/memory-leaks-java/
 Singleton pattern
 
 https://www.callicoder.com/java-singleton-design-pattern-example/
+
+JAXB
+
+https://www.javacodegeeks.com/2014/12/jaxb-tutorial-xml-binding.html
+
+https://dzone.com/articles/jaxb-and-root-elements
